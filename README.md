@@ -1,4 +1,4 @@
-# Junior Software Developer Screening Test
+# Take-Home Assignment for an English Motorsport Firm for a Junior Software Developer position
 
 ## Overview
 
@@ -92,6 +92,7 @@ Each cell represents a desk occupied by a student.
 # Example Resulting Grid Output
 
 seating arrangement:
+
 A01(T1)   | A02(T2)   | A03(T3)   | A04(T5)   | A06(T1)  
 A05(T5)   | A09(T4)   | A11(T1)   | A07(T2)   | A08(T3)  
 A12(T2)   | A13(T3)   | A10(T5)   | A19(T4)   | A14(T5)  
